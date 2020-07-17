@@ -1,3 +1,2 @@
-# hello-world
-Just another repository 
-It`s just a change I`m making to my branch.
+# hello-world.
+Made a new Github profile. Playing with AI on colab. 
